@@ -1,0 +1,32 @@
+{
+    "Translation": "الترجمة",
+
+    "HeroSection":
+    {
+        "HeroText": "مكان واحد لأشهر الاسواق الإلكترونية",
+        "BrowseNow": "تصفح الان !!"
+    },
+    
+    "Searchlabel": "إبحث عن العروض",
+    "noData": "لاتوجد بيانات مشابهة",
+    "Search": "بحث",
+    "SearchFilter": "فلتر بحث",
+    "DropdownPlaceholder": "إبحث عن عروضك المفضلة",
+
+    "OffersOf": "عروض من أشهر مواقع التجارة الإلكترونية",
+
+    "MoreProducts": "منتجات أكثر",
+
+    "BrowseAll": "تصفح الكل",
+
+    "Filters":
+    {
+        "ecommercesSites": "مواقع التجارة الاكترونية",
+        "Category": "الفئة",
+        "Price": "السعر",
+        "Lowest": "الاقل",
+        "Highest": "الأعلى"
+    },
+
+    "errorMessage": "لاتوجد منتجات متتابطقة!!, الرجاء اعد ضبط فلتر البحث"
+}

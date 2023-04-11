@@ -1,0 +1,32 @@
+{
+  "Translation": "Translation",
+  
+  "HeroSection": 
+  {
+    "HeroText": "One place for the most famous E-commerces",
+    "BrowseNow": "Browse Now !!"
+  },
+
+  "Searchlabel":"Search for Offers",
+  "noData": "No Data Match",
+  "Search": "Search",
+  "SearchFilter": "Search Filter",
+  "DropdownPlaceholder": "Search for your favorite offers",
+
+  "OffersOf": "Offers of the most famous e-commerce",
+
+  "MoreProducts": "More Products",
+
+  "BrowseAll": "Browse All",
+
+  "Filters":
+    {
+      "ecommercesSites": "E-commerces Sites",
+      "Category": "Category",
+      "Price": "Price",
+      "Lowest": "Lowest",
+      "Highest": "Highest"
+    },
+
+    "errorMessage": "No products match !!, please reset the search filter"
+}
